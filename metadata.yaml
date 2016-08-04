@@ -1,0 +1,42 @@
+_repo: The-Wedding-Guest--A-Friend-of-the-Bride-and-Bridegroom_4620
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Herbert, Uncle
+    - Arthur, Timothy Shay
+    - Uncle Herbert
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4620'
+language: en
+publication_note: Chicago, Ill., 1856
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The evening before marriage -- The wife -- Marriage -- The bride's
+  sister -- Love vs. health -- The young housekeeper -- To an absent wife -- The word
+  of praise -- Letters to a young wife from a married lady -- The wife -- Be gentle
+  with thy wife -- A true tale of life -- Man and woman -- The fairy wife--an apologue
+  -- A brief history, in three parts, with a sequel -- Elma's mission -- Living like
+  a lady -- Lady Lucy's secret -- A word for wives -- No jewelled beauty -- The first
+  marriage in the family -- Only a few words -- The two homes -- Love's fairy ring
+  -- Fannie's bridal -- The lover and the husband -- Nellie -- A home in the heart
+  -- A leaf from a family journal -- Trifles -- Domestic happiness -- A Sylvan morality;
+  or, a word to wives -- Passages from a young wife's diary -- Hints and helps for
+  married partners -- Three ways of managing a wife.
+title: 'The Wedding Guest: A Friend of the Bride and Bridegroom'
+url: http://www.gutenberg.org/ebooks/4620
